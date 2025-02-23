@@ -41,20 +41,7 @@ HealthScore is a comprehensive mobile application built with React Native and Ex
 - **Navigation**: Expo Router
 - **Development**: TypeScript, ESLint, Jest
 
-## Screenshots
 
-*(Add your screenshots here)*
-
-<details>
-<summary>View Screenshots</summary>
-
-- Home Screen
-- Chat Interface
-- Health Survey
-- Analytics Dashboard
-- Calendar View
-
-</details>
 
 ## Getting Started
 
