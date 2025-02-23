@@ -117,19 +117,6 @@ healthscore/
 - Update documentation as needed
 - Follow the commit message convention
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Expo](https://expo.dev/) for the amazing React Native framework
-- [Google Gemini AI](https://ai.google.dev/) for the AI capabilities
-- [React Native Community](https://reactnative.dev/community/overview) for the excellent components
-
-## Contact
-
-Rayan Sikkandar
 
 Project Link: [https://github.com/rayansikkandar/Healthcare-AI-Health-bot](https://github.com/rayansikkandar/Healthcare-AI-Health-bot)
 
