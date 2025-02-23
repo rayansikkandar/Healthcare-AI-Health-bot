@@ -2,7 +2,7 @@
 
 HealthScore is a comprehensive mobile application built with React Native and Expo that helps users track their health symptoms and receive AI-powered health insights. The app features an intelligent chatbot for symptom discussion, daily health questionnaires, and detailed health tracking capabilities.
 
-![HealthScore App](screenshots/app-preview.png) *(Add your screenshots here)*
+
 
 ## Features
 
