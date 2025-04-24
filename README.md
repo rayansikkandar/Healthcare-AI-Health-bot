@@ -7,7 +7,7 @@ HealthScore is a comprehensive mobile application built with React Native and Ex
 ## Features
 
 ### 🤖 AI-Powered Health Assistant
-- Intelligent chatbot using Google's Gemini AI API
+- Intelligent chatbot using OpenAI's API
 - Natural language processing for symptom analysis
 - Smart follow-up questions based on user responses
 - Personalized health recommendations
@@ -36,7 +36,7 @@ HealthScore is a comprehensive mobile application built with React Native and Ex
 - **Frontend**: React Native, Expo
 - **State Management**: React Hooks, AsyncStorage
 - **UI Components**: Custom themed components, React Native Reanimated
-- **AI Integration**: Google Gemini AI API
+- **AI Integration**: OpenAI API
 - **Data Visualization**: React Native Chart Kit
 - **Navigation**: Expo Router
 - **Development**: TypeScript, ESLint, Jest
@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [Expo](https://expo.dev/) for the amazing React Native framework
-- [Google Gemini AI](https://ai.google.dev/) for the AI capabilities
+- [OpenAI](https://openai.com/) for the AI capabilities
 - [React Native Community](https://reactnative.dev/community/overview) for the excellent components
 
 ## Contact
